@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinmhetre678" alt="sachinmhetre678" /></a> </p>
 
-- 🔭 I’m currently working on [Studying in](SIT)
+- 🔭 I’m currently Studying in SIT
 
 - 🌱 I’m currently learning **CSE.**
 
