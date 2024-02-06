@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **CSE.**
 
-- 👯 I’m looking to **get more Technology.**
-
 - 🤝 I’m looking to **learn.**
 
 - 📫 How to reach me **sachinmhetre678@gmail.com**
