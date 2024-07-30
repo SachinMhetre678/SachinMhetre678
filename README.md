@@ -49,7 +49,7 @@
     <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://portfolio-puws.onrender.com" target="_blank">
+  <a href="https://sachinmhetre.vercel.app/" target="_blank">
     <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
