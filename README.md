@@ -6,7 +6,7 @@
 
 <h3 align="center">My interests</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Data+Science,Cloud+Computing" alt="Typing SVG" />
 </p>
 
 <p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
