@@ -23,9 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SachinMhetre678&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinMhetre678&hide_border=true&theme=transparent" /> 
-</p>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SachinMhetre678&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies">
