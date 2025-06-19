@@ -15,21 +15,21 @@
 <img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
-class DataScientist:
+class FullStackDeveloper:
     def __init__(self):
         self.name = "Sachin Mhetre"
-        self.role = "Data Science Enthusiast"
+        self.role = "Full Stack Developer & Data Science Enthusiast"
         self.location = "India 🇮🇳"
-        self.languages = ["Python", "R", "SQL", "JavaScript"]
-        self.interests = ["AI/ML", "Deep Learning", "Cloud Computing"]
-        self.currently_learning = ["Advanced ML Algorithms", "MLOps"]
-        self.fun_fact = "I turn coffee into code ☕➡️💻"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together! 🚀")
+        self.languages = ["Python", "Java", "JavaScript", "SQL", "R"]
+        self.backend_frameworks = ["Django", "Spring Boot", "FastAPI"]
+        self.interests = ["Web Development", "AI/ML", "Cloud Computing", "System Design"]
+        self.currently_learning = ["Django REST Framework", "Spring Boot Microservices"]
+        self.databases = ["PostgreSQL", "MongoDB", "MySQL"]
+        self.fun_fact = "I turn coffee into scalable web applications ☕➡️🌐"
 
-me = DataScientist()
-me.say_hi()
+
+me = FullStackDeveloper()
+print(f"Current tech stack: {me.current_stack()}")
 ```
 
 <br clear="right"/>
